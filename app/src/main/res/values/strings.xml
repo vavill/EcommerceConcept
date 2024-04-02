@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ecommerce Concept</string>
+    <string name="splash_ecommerce_concept">Ecommerce\nConcept</string>
+    <string name="home_store_title_select_category">Select Category</string>
+    <string name="view_all">view all</string>
+    <string name="home_store_title_hot_sales">Hot sales</string>
+    <string name="see_more">see more</string>
+    <string name="home_store_title_best_seller">Best Seller</string>
+    <string name="filter_options">Filter options</string>
+    <string name="filter_done">Done</string>
+    <string name="filter_title_brand">Brand</string>
+    <string name="filter_title_price">Price</string>
+    <string name="filter_title_size">Size</string>
+    <string name="details_product_details">Product details</string>
+    <string name="details_product_select_color_and_capacity">Select color and capacity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cart_add_address">Add address</string>
+    <string name="cart_my_cart">My Cart</string>
+    <string name="cart_checkout">Checkout</string>
+    <string name="cart_delivery">Delivery</string>
+    <string name="cart_free">Free</string>
+    <string name="cart_6000_us">$6,000 us</string>
+    <string name="cart_total">Total</string>
+    <string name="bottom_menu_explorer">Explorer</string>
+</resources>

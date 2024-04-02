@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EcommerceConcept" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/light_primary</item>
+        <item name="colorSecondary">@color/light_secondary</item>
+        <item name="android:fontFamily">@font/mark_pro_bold</item>
+    </style>
+    
+    <style name="HomeTitle" parent="Base.Theme.EcommerceConcept">
+        <item name="fontFamily">@font/mark_pro_bold</item>
+        <item name="android:textSize">@dimen/HomeTitleTextSize</item>
+    </style>
+
+    <style name="Filters" parent="Base.Theme.EcommerceConcept">
+        <item name="fontFamily">@font/mark_pro_bold</item>
+        <item name="android:textSize">@dimen/FilterTextSize</item>
+    </style>
+
+    <style name="DetailsProductTabs" parent="Base.Theme.EcommerceConcept">
+        <item name="fontFamily">@font/mark_pro_bold</item>
+        <item name="android:textSize">@dimen/DetailsProductTabsTextSize</item>
+    </style>
+
+    <style name="HomeStoreBottomNavigationView" parent="Base.Theme.EcommerceConcept">
+        <item name="color">@color/light_primary</item>
+    </style>
+
+    <style name="Theme.EcommerceConcept" parent="Base.Theme.EcommerceConcept" />
+</resources>

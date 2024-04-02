@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="HomeTitleTextSize">25sp</dimen>
+    <dimen name="PriceTextSize">20sp</dimen>
+    <dimen name="PriceWithoutSaleTextSize">15sp</dimen>
+    <dimen name="FilterTitleTextSize">20sp</dimen>
+    <dimen name="FilterTextSize">20sp</dimen>
+    <dimen name="DetailsProductTitleTextSize">28sp</dimen>
+    <dimen name="DetailsProductTabsTextSize">20sp</dimen>
+
+</resources>
